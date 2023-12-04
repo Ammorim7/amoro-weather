@@ -1,0 +1,16 @@
+.containerDia{
+    background-color: rgba(255, 255, 255, 0.041);
+    width: 95%;
+    margin-top: 0.5em;
+    display: flex;
+    align-items: center;
+}
+
+.containerDiaInfo{
+    flex-grow: 1;
+    text-align: center;
+}
+
+.containerDiaInfo h1{
+    font-size: 1.5em;
+}
